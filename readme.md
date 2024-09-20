@@ -1,10 +1,10 @@
 # Kérdések
 ## **_CSS_**
 ## Mi a css?
-### 
+### semmi sehol 
 ## Hogyan tudunk beágyazni egy css-t egy html fájlba?
 ###
-## Hogyan tudunk css stílust definiálni egyszerre több elemre? A következő kódrészletet hogyan egészítenéd ki, hogy minden elemnek legyen egy saját piros szaggatott kerete, és zöld háttérszíne? 
+## Hogyan tudunk css stílust definiálni egyszerre több elemre? A következő kódrészletet hogyan egészítenéd ki, hogy minden elemnek legyen egy saját piros szaggatott kerete, és zöld háttérszíne?
 ```html 
 <div> Első négyzetünk </div>
 <div> Második négyzetünk </div>
